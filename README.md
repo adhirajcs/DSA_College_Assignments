@@ -1,4 +1,4 @@
-# MCA DSA using JAVA College Assignements
+# MCA DSA (using JAVA) College Assignements
 
 This repository contains all my college assignments of the subject called Data Structures and Algorithms(DSA).
 
