@@ -1,4 +1,4 @@
-package day3.q3;
+package day3;
 
 /* 3. Write a menu driven program to implement a deque using list.
 Call the two ends of the deque left and right and write four C functions, remvLeft,

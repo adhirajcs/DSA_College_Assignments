@@ -1,4 +1,4 @@
-package day3.q2;
+package day3;
 
 /* 2. Write a menu driven program to implement a circular queue (use an array to store
 the elements of the queue).
