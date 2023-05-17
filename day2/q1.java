@@ -91,7 +91,7 @@ class Stack {
 }
 
 // Driver code
-public class Main {
+public class q1 {
     public static void main(String[] args) {
         Stack stack1 = new Stack(5);
         Stack stack2 = new Stack(5);
